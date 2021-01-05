@@ -5,6 +5,5 @@ This will contain sorting algorithm performed in c++ programing:
 3) Merge sort.
 4) Counting sort.
 5) Quick sort. 
-6) 
-
-
+6) Bubble sort 
+7) Selection sort.
